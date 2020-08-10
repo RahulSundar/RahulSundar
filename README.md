@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Rahul Sundar](https://in.linkedin.com/in/rahul-sundar-311a6977), a MS/PHD scholar in the [Department of Aerospace Engineering, Indian Institute of Technology Madras](http://www.ae.iitm.ac.in/index.htm). I am a research assistant in the [Biomimetics and Dynamics lab](https://github.com/biomimetics-iitm) at IIT Madras under [Prof SUnetra Sarkar](https://home.iitm.ac.in/sunetra/). 
+I am [Rahul Sundar](https://in.linkedin.com/in/rahul-sundar-311a6977), a MS/PHD scholar in the [Department of Aerospace Engineering, Indian Institute of Technology Madras](http://www.ae.iitm.ac.in/index.htm). I am a research assistant in the [Biomimetics and Dynamics lab](https://github.com/biomimetics-iitm) at IIT Madras under [Prof Sunetra Sarkar](https://home.iitm.ac.in/sunetra/). 
 
 I am passionate about studying forward and inverse Fluid Structure Interaction problems as they offer me the opportunity to go deep and wide in different interconnected topics mentioned below:
 - Mathematical Modeling and analysis
@@ -18,3 +18,5 @@ Currently, I am involved in studying flapping wing flyers in the context of the 
 I would love to collaborate with any passionate individual working in similar areas or require a skill set that I can offer. 
 You can reach me at:
 rahul.sundar95@gmail.com
+
+![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true)
