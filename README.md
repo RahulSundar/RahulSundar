@@ -14,7 +14,7 @@ I am passionate about studying forward and inverse Fluid Structure Interaction p
 
 Currently, I am involved in studying flapping wing flyers in the context of the nonlinear dynamical phenomenon exhibited by the fluid-structure interactions in different regimes of flight and their associated aerodynamic performance.
 
-![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true)
+![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true) 
 
 
 ## Publications
