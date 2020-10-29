@@ -12,7 +12,7 @@ I am passionate about studying forward and inverse Fluid Structure Interaction p
 - Machine Learning
 - Stochastic processes and dynamical systems
 
-Currently, I am involved in studying flapping wing flyers in the context of the nonlinear dynamical phenomenon exhibited by the fluid-structure interactions in different regimes of flight and their associated aerodynamic performance.
+Currently, I am studying flapping wing flyers and the associated nonlinear dynamical phenomenon occurring due to the fluid-structure interactions in different regimes of flight and the aerodynamic performance.
 
 ![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true) 
 
