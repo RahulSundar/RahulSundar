@@ -17,8 +17,9 @@ Currently, I am studying flapping wing flyers and the associated nonlinear dynam
 ![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true) 
 
 
-## Publications
+## Publications (Conference Proceedings)
 1. [_"Computational modeling of stochastic buffeting of fin-like structures"_](https://www.springer.com/in/book/9789811583148), Rahul Sundar, Avisha Ghorpade, Jithin Jith, Sayan Gupta and Sunetra Sarkar,Chapter 22,  Recent Advances in Computational Mechanics and Simulations, Proceedings of the ICCMS 2019
+2. ["Transitional Kinematics of Flapping Wing Flyers: A two dimensional perspective"](https://www.researchgate.net/publication/343501539_Transitionary_flight_of_a_flapping_wing_flyer_A_two_dimensional_perspective), Rahul Sundar, Dipanjan Majumdar and Sunetra Sarkar. Proceedings of the Second International Symposium of Flutter and Its Application, Pg - 258, 020
 
 ## Contact
 I would love to collaborate with any passionate individual working in similar areas or require a skill set that I can offer. 
