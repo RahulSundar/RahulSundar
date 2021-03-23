@@ -9,7 +9,7 @@ I am passionate about studying forward and inverse Fluid Structure Interaction p
 - Model Order Reduction
 - System Identification
 - Data driven methods for modeling, simulation and control
-- Machine Learning
+- Machine Learning for science and engineering applications
 - Stochastic processes and dynamical systems
 
 Currently, I am studying flapping wing flyers and the associated nonlinear dynamical phenomenon occurring due to the fluid-structure interactions in different regimes of flight and the aerodynamic performance.
