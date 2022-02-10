@@ -25,4 +25,5 @@ Currently, I am studying flapping wing flyers and the associated nonlinear dynam
 I would love to collaborate with any passionate individual working in similar areas or require a skill set that I can offer. 
 You can reach me at:
 rahul.sundar95@gmail.com
-![Logo](https://github.com/RahulSundar/RahulSundar/blob/master/Logo.png =565x150)
+
+<img src="https://github.com/RahulSundar/RahulSundar/blob/master/Logo.png" width=40% height=40%>
