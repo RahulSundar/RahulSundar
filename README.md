@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am [Rahul Sundar](https://in.linkedin.com/in/rahul-sundar-311a6977), a MS/PHD scholar in the [Department of Aerospace Engineering, Indian Institute of Technology Madras](http://www.ae.iitm.ac.in/index.htm). I am a research assistant in the [Biomimetics and Dynamics lab](https://github.com/biomimetics-iitm) at IIT Madras under [Prof Sunetra Sarkar](https://home.iitm.ac.in/sunetra/). 
 
-I am passionate about studying forward and inverse Fluid Structure Interaction problems as they offer me the opportunity to go deep and wide in different interconnected topics mentioned below:
+As part of my PhD I am passionate about studying forward and inverse Fluid Structure Interaction problems as they offer me the opportunity to go deep and wide in different interconnected topics mentioned below:
 - Mathematical Modeling and analysis
 - Multiphysical models
 - High Performance Computing
@@ -12,7 +12,15 @@ I am passionate about studying forward and inverse Fluid Structure Interaction p
 - Machine Learning for science and engineering applications
 - Stochastic processes and dynamical systems
 
-Currently, I am studying flapping wing flyers and the associated nonlinear dynamical phenomenon occurring due to the fluid-structure interactions in different regimes of flight and the aerodynamic performance. Although the focus is on flapping wing flyers, the ramifications of the methods developed for such systems extend to microfluidic medical devices, vibrating chimneys, wind energy harvesting, weather forecasting, coupled dynamical systems, etc. 
+I am studying flapping wing flyers and the associated nonlinear dynamical phenomenon occurring due to the fluid-structure interactions in different regimes of flight and the aerodynamic performance. Although the focus is on flapping wing flyers, the ramifications of the methods developed for such systems extend to microfluidic medical devices, vibrating chimneys, wind energy harvesting, weather forecasting, coupled dynamical systems, etc. 
+
+Outside of my PhD specific interests, I am currently interested in 
+- Scientific Machine learning for EV, Healthcare, pharma, climate science - basically all things - engineering/ interdisciplinary
+- Generative AI for: (1) Content generation and art, (2) conversational applications, and (3) science & math & computing, 
+- Broadly understanding large scale usecases of ML + automation, optimisation and control
+- Learning how to build scalable use-first ML models/systems, and
+- Understanding what are the schools of thought towards building AGI
+
 
 ![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true) 
 
