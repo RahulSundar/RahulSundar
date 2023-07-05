@@ -18,7 +18,7 @@ Outside of my PhD specific interests, I am currently interested in
 - Scientific Machine learning for EV, Healthcare, pharma, climate science - basically all things - engineering/ interdisciplinary
 - Generative AI for: (1) Content generation and art, (2) conversational applications, and (3) science & math & computing, 
 - Broadly understanding large scale usecases of ML + automation, optimisation and control
-- Learning how to build scalable use-first ML models/systems, and
+- Learning how to build scalable user-first ML models/systems, and
 - Understanding what are the schools of thought towards building AGI
 
 
