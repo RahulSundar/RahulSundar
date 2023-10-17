@@ -25,9 +25,14 @@ Outside of my PhD specific interests, I am currently interested in
 ![Rahul Sundar's github stats](https://github-readme-stats.vercel.app/api?username=RahulSundar&count_private=true) 
 
 
-## Publications (Conference Proceedings)
+## Publications 
+### Journals 
+1. [_"Physics-informed neural networks modeling for systems with moving immersed boundaries: application to an unsteady flow past a plunging foil."_](https://arxiv.org/abs/2306.13395),  Rahul Sundar, Dipanjan Majumdar, Didier Lucor, and Sunetra Sarkar. arXiv preprint arXiv:2306.13395 (2023). [Submitted to JFS. Under review. ]
+
+### Conference Proceedings
+2. [_"Surrogate Modeling of unsteady aerodynamic loads acting on a plunging flat plate"_](https://www.researchgate.net/profile/Rahul-Sundar-4/publication/361362864_Surrogate_modeling_of_unsteady_aerodynamic_loads_acting_on_a_plunging_airfoil/links/638f51e3095a6a7774092ee3/Surrogate-modeling-of-unsteady-aerodynamic-loads-acting-on-a-plunging-airfoil.pdf), Rahul Sundar, Virendra Kumar, Dipanjan Majumdar, Chhote Lal Shah and Sunetra Sarkar. The 8th European Congress on Computational Methods in Applied Sciences and Engineering
+ECCOMAS Congress 2022
 1. [_"Computational modeling of stochastic buffeting of fin-like structures"_](https://www.springer.com/in/book/9789811583148), Rahul Sundar, Avisha Ghorpade, Jithin Jith, Sayan Gupta and Sunetra Sarkar,Chapter 22,  Recent Advances in Computational Mechanics and Simulations, Proceedings of the ICCMS 2019
-2. ["Transitional Kinematics of Flapping Wing Flyers: A two dimensional perspective"](https://www.researchgate.net/publication/343501539_Transitionary_flight_of_a_flapping_wing_flyer_A_two_dimensional_perspective), Rahul Sundar, Dipanjan Majumdar and Sunetra Sarkar. Proceedings of the Second International Symposium of Flutter and Its Application, Pg - 258, 020
 
 ## Contact
 I would love to collaborate with any passionate individual working in similar areas or require a skill set that I can offer. 
