@@ -27,7 +27,8 @@ Outside of my PhD specific interests, I am currently interested in
 
 ## Publications 
 ### Journals 
-1. [_"Physics-informed neural networks modeling for systems with moving immersed boundaries: application to an unsteady flow past a plunging foil."_](https://arxiv.org/abs/2306.13395),  Rahul Sundar, Dipanjan Majumdar, Didier Lucor, and Sunetra Sarkar. arXiv preprint arXiv:2306.13395 (2023). [Submitted to JFS. Under review. ]
+1. [_"Physics-informed neural networks modeling for systems with moving immersed boundaries: application to an unsteady flow past a plunging foil."_]([https://arxiv.org/abs/2306.13395](https://www.sciencedirect.com/science/article/abs/pii/S088997462400001X)),  Rahul Sundar, Dipanjan Majumdar, Didier Lucor, and Sunetra Sarkar. Journal of Fluids and Structures 125 (2024): 104066.
+2. ["Comparative analysis of model reduction techniques for flapping wing dynamics"](), Arvind Thirunavukkarasu, Rahul Sundar, and Sunetra Sarkar. Physics of Fluids (2024). [Accepted. To be published online.]
 
 ### Conference Proceedings
 4. [_"Understanding the training of PINNs for unsteady flow past a plunging foil through the lens of input subdomain level loss function gradients
